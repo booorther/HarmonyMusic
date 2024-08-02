@@ -1,0 +1,20 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/xxxxPage",
+    "pages/HeimaMusicPage",
+    "pages/countdownPage",
+    "pages/tabPage",
+    "pages/AdPage",
+    "pages/recommendPage",
+    "pages/music1Page",
+    "pages/findPage",
+    "pages/momentPage",
+    "pages/minePage",
+    "pages/avplayerPage",
+    "pages/musicPage",
+    "pages/playPage",
+    "pages/myInfoPage",
+    "pages/myMessagePage"
+  ]
+}
